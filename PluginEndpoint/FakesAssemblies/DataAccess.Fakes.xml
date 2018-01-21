@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataAccess.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:LayeredPlugin.DataAccess.Fakes.ShimContactDAL">
+            <summary>Shim type of LayeredPlugin.DataAccess.ContactDAL</summary>
+        </member>
+        <member name="M:LayeredPlugin.DataAccess.Fakes.ShimContactDAL.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:LayeredPlugin.DataAccess.Fakes.ShimContactDAL.#ctor(LayeredPlugin.DataAccess.ContactDAL)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:LayeredPlugin.DataAccess.Fakes.ShimContactDAL.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:LayeredPlugin.DataAccess.Fakes.ShimContactDAL.AllInstances.GetNumberOfContactsInAccountGuid">
+            <summary>Sets the shim of ContactDAL.GetNumberOfContactsInAccount(Guid accountId)</summary>
+        </member>
+        <member name="M:LayeredPlugin.DataAccess.Fakes.ShimContactDAL.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:LayeredPlugin.DataAccess.Fakes.ShimContactDAL.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:LayeredPlugin.DataAccess.Fakes.ShimContactDAL.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:LayeredPlugin.DataAccess.Fakes.ShimContactDAL.ConstructorIOrganizationService">
+            <summary>Sets the shim of ContactDAL.ContactDAL(IOrganizationService organizationService)</summary>
+        </member>
+        <member name="P:LayeredPlugin.DataAccess.Fakes.ShimContactDAL.GetNumberOfContactsInAccountGuid">
+            <summary>Sets the shim of ContactDAL.GetNumberOfContactsInAccount(Guid accountId)</summary>
+        </member>
+        <member name="T:LayeredPlugin.DataAccess.Fakes.StubContactDAL">
+            <summary>Stub type of LayeredPlugin.DataAccess.ContactDAL</summary>
+        </member>
+        <member name="M:LayeredPlugin.DataAccess.Fakes.StubContactDAL.#ctor(Microsoft.Xrm.Sdk.IOrganizationService)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:LayeredPlugin.DataAccess.Fakes.StubContactDAL.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:LayeredPlugin.DataAccess.Fakes.StubContactDAL.InitializeStub">
+            <summary>Initializes a new instance of type StubContactDAL</summary>
+        </member>
+        <member name="P:LayeredPlugin.DataAccess.Fakes.StubContactDAL.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:LayeredPlugin.DataAccess.Fakes.StubContactDAL.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

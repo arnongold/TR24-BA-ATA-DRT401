@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BasicUnitTests.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:BasicUnitTests.Fakes.ShimFileAggregator">
+            <summary>Shim type of BasicUnitTests.FileAggregator</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.ShimFileAggregator.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.ShimFileAggregator.#ctor(BasicUnitTests.FileAggregator)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:BasicUnitTests.Fakes.ShimFileAggregator.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.ShimFileAggregator.AllInstances.GetFileAggregationString">
+            <summary>Sets the shim of FileAggregator.GetFileAggregation(String fileName)</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.ShimFileAggregator.AllInstances.GetNumbersFromFileString">
+            <summary>Sets the shim of FileAggregator.GetNumbersFromFile(String fileName)</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.ShimFileAggregator.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.ShimFileAggregator.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.ShimFileAggregator.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.ShimFileAggregator.Constructor">
+            <summary>Sets the shim of FileAggregator.FileAggregator()</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.ShimFileAggregator.GetFileAggregationString">
+            <summary>Sets the shim of FileAggregator.GetFileAggregation(String fileName)</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.ShimFileAggregator.GetNumbersFromFileString">
+            <summary>Sets the shim of FileAggregator.GetNumbersFromFile(String fileName)</summary>
+        </member>
+        <member name="T:BasicUnitTests.Fakes.ShimMathFunctions">
+            <summary>Shim type of BasicUnitTests.MathFunctions</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.ShimMathFunctions.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.ShimMathFunctions.#ctor(BasicUnitTests.MathFunctions)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.ShimMathFunctions.AddNumbersInt32Int32">
+            <summary>Sets the shim of MathFunctions.AddNumbers(Int32 a, Int32 b)</summary>
+        </member>
+        <member name="T:BasicUnitTests.Fakes.ShimMathFunctions.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.ShimMathFunctions.AllInstances.AddNumbersInt32Int32">
+            <summary>Sets the shim of MathFunctions.AddNumbers(Int32 a, Int32 b)</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.ShimMathFunctions.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.ShimMathFunctions.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.ShimMathFunctions.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.ShimMathFunctions.Constructor">
+            <summary>Sets the shim of MathFunctions.MathFunctions()</summary>
+        </member>
+        <member name="T:BasicUnitTests.Fakes.StubFileAggregator">
+            <summary>Stub type of BasicUnitTests.FileAggregator</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.StubFileAggregator.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.StubFileAggregator.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.StubFileAggregator.InitializeStub">
+            <summary>Initializes a new instance of type StubFileAggregator</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.StubFileAggregator.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.StubFileAggregator.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BasicUnitTests.Fakes.StubMathFunctions">
+            <summary>Stub type of BasicUnitTests.MathFunctions</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.StubMathFunctions.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.StubMathFunctions.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:BasicUnitTests.Fakes.StubMathFunctions.InitializeStub">
+            <summary>Initializes a new instance of type StubMathFunctions</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.StubMathFunctions.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BasicUnitTests.Fakes.StubMathFunctions.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

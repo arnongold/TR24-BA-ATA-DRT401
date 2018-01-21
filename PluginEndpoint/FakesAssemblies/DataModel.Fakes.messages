@@ -1,0 +1,278 @@
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.AccountState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ActivityPointerState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.AdvancedSimilarityRuleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.AppointmentState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.AsyncOperationState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.AzureServiceConnectionState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BookableResourceState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BookableResourceBookingState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BookableResourceBookingHeaderState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BookableResourceCategoryState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BookableResourceCategoryAssnState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BookableResourceCharacteristicState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BookableResourceGroupState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BookingStatusState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BulkDeleteOperationState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BulkOperationState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.BusinessProcessFlowInstanceState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.CampaignState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.CampaignActivityState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.CampaignResponseState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ChannelAccessProfileState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ChannelAccessProfileRuleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ChannelPropertyState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ChannelPropertyGroupState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.CharacteristicState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ColumnMappingState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ConnectionState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ConnectionRoleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ContactState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ContractState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ContractDetailState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ConvertRuleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.DelveActionHubState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.demo_employeeState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.DiscountTypeState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.DuplicateRuleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.DynamicPropertyState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.EmailState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.EmailServerProfileState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.EntitlementState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ExpiredProcessState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ExternalPartyState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ExternalPartyItemState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.FaxState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.FeedbackState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.GoalState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.GoalRollupQueryState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ImportState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ImportEntityMappingState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ImportFileState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ImportLogState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ImportMapState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.IncidentState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.IncidentResolutionState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.InteractionForEmailState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.InvoiceState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.KbArticleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.KnowledgeArticleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.KnowledgeArticleIncidentState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.KnowledgeArticleViewsState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.KnowledgeSearchModelState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.LanguageLocaleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.LeadState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.LeadToOpportunitySalesProcessState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.LetterState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ListState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.LookUpMappingState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.MailboxState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.MailMergeTemplateState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.MetricState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.msdyn_PostAlbumState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.msdyn_PostConfigState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.msdyn_PostRuleConfigState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.msdyn_wallsavedqueryState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.msdyn_wallsavedqueryusersettingsState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.NewProcessState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.OpportunityState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.OpportunityCloseState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.OpportunitySalesProcessState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.OrderCloseState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.OwnerMappingState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.PhoneCallState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.PhoneToCaseProcessState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.PickListMappingState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_AssignLogState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_EqipmentCategoryState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_EquipmentState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_EquipmentExternalSupplierState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_EquipmentLocalState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_FaultTypeState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_incidentbpfState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_itemState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_MainSubjectState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_ParentCategoryState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_ProcessorState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_ResolutionTypeState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_SeconadrySubjectState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_ServiceSupplierState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_SupplierState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_TaskHandelingState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_TechnicianVisitState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_TertiarySubjectState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.pmo_UnitOrganizationState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.PositionState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.PriceLevelState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ProcessSessionState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ProductState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ProductAssociationState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ProductSubstituteState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.QueueState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.QueueItemState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.QuoteState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.QuoteCloseState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.RatingModelState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.RatingValueState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.RecommendationModelState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.RecurringAppointmentMasterState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.RelationshipRoleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.RoutingRuleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.SalesOrderState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.SavedQueryState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.SdkMessageProcessingStepState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ServiceAppointmentState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.SharePointDocumentLocationState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.SharePointSiteState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.SimilarityRuleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.SLAState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.SocialActivityState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.SocialProfileState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.SyncErrorState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.TaskState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.ThemeState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.TopicModelState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.TransactionCurrencyState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.TransformationMappingState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.TranslationProcessState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.UoMScheduleState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.UserQueryState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate stub for LayeredPlugin.Model.WorkflowState: type is a value type.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.AccountState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ActivityPointerState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.AdvancedSimilarityRuleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.AppointmentState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.AsyncOperationState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.AzureServiceConnectionState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BookableResourceState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BookableResourceBookingState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BookableResourceBookingHeaderState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BookableResourceCategoryState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BookableResourceCategoryAssnState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BookableResourceCharacteristicState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BookableResourceGroupState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BookingStatusState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BulkDeleteOperationState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BulkOperationState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.BusinessProcessFlowInstanceState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.CampaignState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.CampaignActivityState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.CampaignResponseState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ChannelAccessProfileState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ChannelAccessProfileRuleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ChannelPropertyState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ChannelPropertyGroupState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.CharacteristicState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ColumnMappingState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ConnectionState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ConnectionRoleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ContactState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ContractState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ContractDetailState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ConvertRuleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.DelveActionHubState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.demo_employeeState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.DiscountTypeState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.DuplicateRuleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.DynamicPropertyState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.EmailState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.EmailServerProfileState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.EntitlementState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ExpiredProcessState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ExternalPartyState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ExternalPartyItemState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.FaxState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.FeedbackState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.GoalState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.GoalRollupQueryState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ImportState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ImportEntityMappingState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ImportFileState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ImportLogState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ImportMapState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.IncidentState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.IncidentResolutionState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.InteractionForEmailState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.InvoiceState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.KbArticleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.KnowledgeArticleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.KnowledgeArticleIncidentState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.KnowledgeArticleViewsState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.KnowledgeSearchModelState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.LanguageLocaleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.LeadState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.LeadToOpportunitySalesProcessState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.LetterState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ListState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.LookUpMappingState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.MailboxState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.MailMergeTemplateState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.MetricState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.msdyn_PostAlbumState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.msdyn_PostConfigState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.msdyn_PostRuleConfigState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.msdyn_wallsavedqueryState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.msdyn_wallsavedqueryusersettingsState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.NewProcessState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.OpportunityState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.OpportunityCloseState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.OpportunitySalesProcessState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.OrderCloseState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.OwnerMappingState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.PhoneCallState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.PhoneToCaseProcessState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.PickListMappingState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_AssignLogState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_EqipmentCategoryState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_EquipmentState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_EquipmentExternalSupplierState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_EquipmentLocalState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_FaultTypeState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_incidentbpfState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_itemState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_MainSubjectState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_ParentCategoryState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_ProcessorState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_ResolutionTypeState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_SeconadrySubjectState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_ServiceSupplierState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_SupplierState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_TaskHandelingState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_TechnicianVisitState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_TertiarySubjectState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.pmo_UnitOrganizationState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.PositionState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.PriceLevelState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ProcessSessionState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ProductState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ProductAssociationState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ProductSubstituteState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.QueueState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.QueueItemState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.QuoteState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.QuoteCloseState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.RatingModelState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.RatingValueState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.RecommendationModelState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.RecurringAppointmentMasterState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.RelationshipRoleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.RoutingRuleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.SalesOrderState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.SavedQueryState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.SdkMessageProcessingStepState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ServiceAppointmentState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.SharePointDocumentLocationState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.SharePointSiteState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.SimilarityRuleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.SLAState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.SocialActivityState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.SocialProfileState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.SyncErrorState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.TaskState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.ThemeState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.TopicModelState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.TransactionCurrencyState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.TransformationMappingState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.TranslationProcessState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.UoMScheduleState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.UserQueryState: type is an enum.
+C:\Dev\Microsoft\TR24\BA-ATA-DRT401 Demos\PluginEndpoint\Fakes\DataModel.fakes : warning : Cannot generate shim for LayeredPlugin.Model.WorkflowState: type is an enum.

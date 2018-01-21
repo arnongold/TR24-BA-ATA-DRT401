@@ -1,0 +1,121 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicUnitTests", "BasicUnitTests\BasicUnitTests.csproj", "{610B3653-F153-433A-A36D-5650C7FED332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicUnitTestsTests", "BasicUnitTestsTests\BasicUnitTestsTests.csproj", "{04D08DD9-D43B-479F-AFC4-9351AC38FB66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic Unit Tests", "Basic Unit Tests", "{956E8DA1-D472-4FA4-BC22-1A8D33F689C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YeOldPlugin", "YeOldPlugin", "{49667F09-88EB-4500-A0EC-0678430C871E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleFunctionPlugin", "SingleFunctionPlugin\SingleFunctionPlugin.csproj", "{CCCD589F-AB83-4EA3-BBFF-0975115E7603}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LayeredPlugin", "LayeredPlugin", "{1F0DF31B-1284-483C-A2B2-CD9A30450840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginEndpoint", "PluginEndpoint\PluginEndpoint.csproj", "{493EADEC-5B96-41DD-BC10-76055E416397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{7BB9D9D3-3915-41F0-8D0E-26830A4D22D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{64224911-165B-4DA1-B7BD-E81C54EA214D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{2E14B257-B3D0-48D2-9075-94381BD1F1BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayeredPluginTests", "LayeredPluginTests\LayeredPluginTests.csproj", "{AB88CC07-3136-40C5-83C0-BB51B16D834C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610B3653-F153-433A-A36D-5650C7FED332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610B3653-F153-433A-A36D-5650C7FED332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610B3653-F153-433A-A36D-5650C7FED332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610B3653-F153-433A-A36D-5650C7FED332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D08DD9-D43B-479F-AFC4-9351AC38FB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D08DD9-D43B-479F-AFC4-9351AC38FB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D08DD9-D43B-479F-AFC4-9351AC38FB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D08DD9-D43B-479F-AFC4-9351AC38FB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCD589F-AB83-4EA3-BBFF-0975115E7603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCD589F-AB83-4EA3-BBFF-0975115E7603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCD589F-AB83-4EA3-BBFF-0975115E7603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCD589F-AB83-4EA3-BBFF-0975115E7603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493EADEC-5B96-41DD-BC10-76055E416397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493EADEC-5B96-41DD-BC10-76055E416397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493EADEC-5B96-41DD-BC10-76055E416397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493EADEC-5B96-41DD-BC10-76055E416397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB9D9D3-3915-41F0-8D0E-26830A4D22D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB9D9D3-3915-41F0-8D0E-26830A4D22D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB9D9D3-3915-41F0-8D0E-26830A4D22D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB9D9D3-3915-41F0-8D0E-26830A4D22D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64224911-165B-4DA1-B7BD-E81C54EA214D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64224911-165B-4DA1-B7BD-E81C54EA214D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64224911-165B-4DA1-B7BD-E81C54EA214D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64224911-165B-4DA1-B7BD-E81C54EA214D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E14B257-B3D0-48D2-9075-94381BD1F1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E14B257-B3D0-48D2-9075-94381BD1F1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E14B257-B3D0-48D2-9075-94381BD1F1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E14B257-B3D0-48D2-9075-94381BD1F1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB88CC07-3136-40C5-83C0-BB51B16D834C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB88CC07-3136-40C5-83C0-BB51B16D834C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB88CC07-3136-40C5-83C0-BB51B16D834C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB88CC07-3136-40C5-83C0-BB51B16D834C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{610B3653-F153-433A-A36D-5650C7FED332} = {956E8DA1-D472-4FA4-BC22-1A8D33F689C4}
+		{04D08DD9-D43B-479F-AFC4-9351AC38FB66} = {956E8DA1-D472-4FA4-BC22-1A8D33F689C4}
+		{CCCD589F-AB83-4EA3-BBFF-0975115E7603} = {49667F09-88EB-4500-A0EC-0678430C871E}
+		{493EADEC-5B96-41DD-BC10-76055E416397} = {1F0DF31B-1284-483C-A2B2-CD9A30450840}
+		{7BB9D9D3-3915-41F0-8D0E-26830A4D22D1} = {1F0DF31B-1284-483C-A2B2-CD9A30450840}
+		{64224911-165B-4DA1-B7BD-E81C54EA214D} = {1F0DF31B-1284-483C-A2B2-CD9A30450840}
+		{2E14B257-B3D0-48D2-9075-94381BD1F1BA} = {1F0DF31B-1284-483C-A2B2-CD9A30450840}
+		{AB88CC07-3136-40C5-83C0-BB51B16D834C} = {1F0DF31B-1284-483C-A2B2-CD9A30450840}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB0D4703-75D7-4DFC-AD59-58B9F1922067}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://arnongold.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BasicUnitTests\\BasicUnitTests.csproj
+		SccProjectTopLevelParentUniqueName1 = BA-ATA-DRT401\u0020Demos.sln
+		SccProjectName1 = BasicUnitTests
+		SccLocalPath1 = BasicUnitTests
+		SccProjectUniqueName2 = BasicUnitTestsTests\\BasicUnitTestsTests.csproj
+		SccProjectTopLevelParentUniqueName2 = BA-ATA-DRT401\u0020Demos.sln
+		SccProjectName2 = BasicUnitTestsTests
+		SccLocalPath2 = BasicUnitTestsTests
+		SccProjectUniqueName3 = SingleFunctionPlugin\\SingleFunctionPlugin.csproj
+		SccProjectTopLevelParentUniqueName3 = BA-ATA-DRT401\u0020Demos.sln
+		SccProjectName3 = SingleFunctionPlugin
+		SccLocalPath3 = SingleFunctionPlugin
+		SccProjectUniqueName4 = PluginEndpoint\\PluginEndpoint.csproj
+		SccProjectTopLevelParentUniqueName4 = BA-ATA-DRT401\u0020Demos.sln
+		SccProjectName4 = PluginEndpoint
+		SccLocalPath4 = PluginEndpoint
+		SccProjectUniqueName5 = BusinessLogic\\BusinessLogic.csproj
+		SccProjectTopLevelParentUniqueName5 = BA-ATA-DRT401\u0020Demos.sln
+		SccProjectName5 = BusinessLogic
+		SccLocalPath5 = BusinessLogic
+		SccProjectUniqueName6 = DataAccess\\DataAccess.csproj
+		SccProjectTopLevelParentUniqueName6 = BA-ATA-DRT401\u0020Demos.sln
+		SccProjectName6 = DataAccess
+		SccLocalPath6 = DataAccess
+		SccProjectUniqueName7 = DataModel\\DataModel.csproj
+		SccProjectTopLevelParentUniqueName7 = BA-ATA-DRT401\u0020Demos.sln
+		SccProjectName7 = DataModel
+		SccLocalPath7 = DataModel
+		SccProjectUniqueName8 = LayeredPluginTests\\LayeredPluginTests.csproj
+		SccProjectTopLevelParentUniqueName8 = BA-ATA-DRT401\u0020Demos.sln
+		SccProjectName8 = LayeredPluginTests
+		SccLocalPath8 = LayeredPluginTests
+	EndGlobalSection
+EndGlobal
